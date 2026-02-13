@@ -1,0 +1,13 @@
+2026-02-13 21:07:48,451 - INFO - Attempting MARKET BUY order for BTCUSDT
+2026-02-13 21:07:49,813 - ERROR - Binance API Error: API-key format invalid.
+2026-02-13 21:10:10,515 - INFO - Attempting MARKET BUY order for BTCUSDT
+2026-02-13 21:10:42,979 - INFO - Attempting LIMIT BUY order for BTCUSDT
+2026-02-13 21:10:47,072 - ERROR - Binance API Error: API-key format invalid.
+2026-02-13 21:27:23,179 - INFO - Attempting LIMIT BUY order for BTCUSDT
+2026-02-13 21:27:23,856 - ERROR - Binance API Error: Timestamp for this request was 1000ms ahead of the server's time.
+2026-02-13 21:28:32,408 - INFO - Attempting MARKET BUY order for BTCUSDT
+2026-02-13 21:28:33,066 - ERROR - Binance API Error: Order's notional must be no smaller than 100 (unless you choose reduce only).
+2026-02-13 21:29:33,174 - INFO - Attempting MARKET BUY order for BTCUSDT
+2026-02-13 21:29:34,040 - INFO - Order Successful! ID: 12246411243
+2026-02-13 21:30:24,602 - INFO - Attempting LIMIT BUY order for BTCUSDT
+2026-02-13 21:30:25,236 - INFO - Order Successful! ID: 12246423371
